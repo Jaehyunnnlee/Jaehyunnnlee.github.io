@@ -1,0 +1,13 @@
+---
+layout: post
+title: test
+date: 2024-01-22 20:06:23 +0900
+category: Algorithm
+---
+# post-sample
+> Hello!
+
+This is code
+```ruby
+print 'hello world'
+```
